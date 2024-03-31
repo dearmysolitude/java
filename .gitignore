@@ -61,7 +61,7 @@ out/
 # https://plugins.jetbrains.com/plugin/7973-sonarlint
 .idea/**/sonarlint/
 
-### Eclipse ###
+### Eclipse ### 
 .apt_generated
 .classpath
 .factorypath
