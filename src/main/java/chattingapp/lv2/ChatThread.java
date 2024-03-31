@@ -1,4 +1,4 @@
-package chattingApp.lv2;
+package chattingapp.lv2;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package chattingApp.lv1;
+package chattingapp.lv1;
 
 import java.io.PrintWriter;
 import java.net.ServerSocket;

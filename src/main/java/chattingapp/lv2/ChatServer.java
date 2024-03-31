@@ -1,4 +1,4 @@
-package chattingApp.lv2;
+package chattingapp.lv2;
 
 import java.net.ServerSocket;
 import java.net.Socket;

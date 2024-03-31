@@ -14,5 +14,5 @@
 
 ## 미니 프로그램
 
-- chattingApp: 채팅 앱
-- memberManageApp: 사용자 관리 앱
+- chattingapp: 채팅 앱
+- membermanageapp: 사용자 관리 앱
