@@ -1,4 +1,4 @@
-package algorithm.titanic_greedy;
+package algorithm.etc.titanic_greedy;
 
 import java.util.Arrays;
 

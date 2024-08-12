@@ -1,4 +1,4 @@
-package algorithm.laddergame;
+package algorithm.etc.laddergame;
 
 import java.util.*;
 class Solution {

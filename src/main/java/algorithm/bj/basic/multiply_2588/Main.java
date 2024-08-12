@@ -1,4 +1,4 @@
-package algorithm.bj.basic.no_2588;
+package algorithm.bj.basic.multiply_2588;
 
 import java.io.BufferedReader;
 import java.io.IOException;

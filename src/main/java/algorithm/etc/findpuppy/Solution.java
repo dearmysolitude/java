@@ -1,6 +1,4 @@
-package algorithm.findpuppy;
-
-import java.util.*;
+package algorithm.etc.findpuppy;
 
 class Solution {
     public int solution(int[][] board){

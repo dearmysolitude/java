@@ -14,5 +14,4 @@ public class Practice {
         printBaseTenToBaseThree(input/3); // 재귀가 끝나면
         System.out.print(input%3); // 재귀를 탈출하는 순서대로 값을 순차적으로 출력(3으로 나눈 나머지)하도록 한다.
     }
-
 }

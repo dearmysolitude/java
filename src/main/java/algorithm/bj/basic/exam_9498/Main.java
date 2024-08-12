@@ -1,4 +1,4 @@
-package algorithm.bj.basic.no_9498;
+package algorithm.bj.basic.exam_9498;
 
 import java.io.BufferedReader;
 import java.io.IOException;

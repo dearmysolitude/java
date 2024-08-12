@@ -1,6 +1,4 @@
-package algorithm.example_dfs;
-
-import java.util.*;
+package algorithm.etc.example_dfs;
 
 public class Solution {
     public int solution(int n) {

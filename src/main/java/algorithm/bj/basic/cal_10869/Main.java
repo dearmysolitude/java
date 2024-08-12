@@ -1,4 +1,4 @@
-package algorithm.bj.basic.no_10869;
+package algorithm.bj.basic.cal_10869;
 
 import java.io.BufferedReader;
 import java.io.IOException;

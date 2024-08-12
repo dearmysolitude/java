@@ -1,4 +1,4 @@
-package algorithm.cleaningrobot;
+package algorithm.etc.cleaningrobot;
 
 import java.util.*;
 

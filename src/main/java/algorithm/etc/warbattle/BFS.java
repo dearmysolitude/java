@@ -1,4 +1,4 @@
-package algorithm.warbattle;
+package algorithm.etc.warbattle;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

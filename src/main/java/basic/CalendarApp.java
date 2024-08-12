@@ -15,9 +15,9 @@ public class CalendarApp {
         int year = sc.nextInt(); // 입력 예외 처리
         System.out.print("달을 입력하세요: ");
         int month = sc.nextInt(); // 입력 예외 처리
-        int leapYearCount = 0; // 윤년의 수
-        int dayCountFromJanFirst = 0; // 입력한 해 1월 1일부터 입력 달 이전까지의 날 수
-        int dayNameOfFirst = 0; // 입력한 달의 첫째 날 요일
+        int leapYearCount; // 윤년의 수
+        int dayCountFromJanFirst; // 입력한 해 1월 1일부터 입력 달 이전까지의 날 수
+        int dayNameOfFirst; // 입력한 달의 첫째 날 요일
 
         // 1. 입력된 달의 1 일의 요일 구하기: 1년 1월 1일은 월요일이고, 해가 지날때마다 한 요일씩 밀린다. 윤년일 경우 한 요일 더 밀린다.
         // 윤년의 갯수: 4년에 한 번 윤년, 100 년에 한번(4의 배수지만) 평년, 400년에 한 번 100 년의 배수지만 윤년 
